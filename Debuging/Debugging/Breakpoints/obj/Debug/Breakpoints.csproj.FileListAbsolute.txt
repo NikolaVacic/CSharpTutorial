@@ -1,0 +1,7 @@
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\bin\Debug\Breakpoints.exe.config
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\bin\Debug\Breakpoints.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\bin\Debug\Breakpoints.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\obj\Debug\Breakpoints.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\obj\Debug\Breakpoints.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\obj\Debug\Breakpoints.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Debuging\Debugging\Breakpoints\obj\Debug\Breakpoints.pdb
