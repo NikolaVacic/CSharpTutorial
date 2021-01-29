@@ -1,0 +1,7 @@
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\bin\Debug\Methods.exe.config
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\bin\Debug\Methods.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\bin\Debug\Methods.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\obj\Debug\Methods.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\obj\Debug\Methods.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Methods\obj\Debug\Methods.csprojAssemblyReference.cache

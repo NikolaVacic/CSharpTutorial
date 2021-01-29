@@ -1,0 +1,7 @@
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\bin\Debug\Example.exe.config
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\bin\Debug\Example.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\bin\Debug\Example.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\obj\Debug\Example.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Example\obj\Debug\Example.pdb

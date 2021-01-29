@@ -1,0 +1,6 @@
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\bin\Debug\Loops.exe.config
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\bin\Debug\Loops.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\bin\Debug\Loops.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\obj\Debug\Loops.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\Loops\obj\Debug\Loops.pdb

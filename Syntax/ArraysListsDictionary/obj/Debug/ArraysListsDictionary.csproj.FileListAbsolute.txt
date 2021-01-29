@@ -1,0 +1,7 @@
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\bin\Debug\ArraysListsDictionary.exe.config
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\bin\Debug\ArraysListsDictionary.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\bin\Debug\ArraysListsDictionary.pdb
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\obj\Debug\ArraysListsDictionary.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\obj\Debug\ArraysListsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\obj\Debug\ArraysListsDictionary.exe
+C:\Users\Nikola\Desktop\Nordeus\Materijal\0. dotNET C#\C#\Tutorial\Syntax\ArraysListsDictionary\obj\Debug\ArraysListsDictionary.pdb
