@@ -17,23 +17,40 @@ namespace Breakpoints
             // Ne izvrsava je nego staje na toj liniji i dozvoljava nam da idemo kroz kod stepbystep kao sto kompajler radi.
 
 
-            for (int i = 0; i < 20; ++i)
-            {
-                Console.WriteLine($"Vrednost od i je {i}");
-                for (int j = 0; j < 10; ++i) 
+            //for (int i = 0; i < 20; ++i)
+            //{
+            //    Console.WriteLine($"Vrednost od i je {i}");
+            //    for (int j = 0; j < 10; ++i)
+            //    {
+            //        Console.WriteLine($"Vrednost od j je {j}");
+            //    }
+            //}
+
+
+            // Conditional breakpoints
+
+            int total = 0;
+            int test = 0;
+
+            for (int i = -1000; i < 1000; ++i) {
+                total += i;
+                try
                 {
-                    Console.WriteLine($"Vrednost od j je {j}");
+                    test = 500 / i;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Exception Happened");
+                    Console.WriteLine(ex);
                 }
             }
 
+            Console.WriteLine($"Total is {total}");
 
-            int suma = 0;
 
-            for (int i = 0; i < 10; ++i) {
-                suma += i * 5;
-            }
 
-            Console.WriteLine(suma);
+
+
 
 
 
