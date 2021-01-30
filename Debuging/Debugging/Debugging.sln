@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breakpoints", "Breakpoints\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{BDAD6EFD-E88A-4EED-9CCA-11C3EB5A8894}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{24B2E42D-A40D-4FB0-99F0-BA6C98871AAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BDAD6EFD-E88A-4EED-9CCA-11C3EB5A8894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDAD6EFD-E88A-4EED-9CCA-11C3EB5A8894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDAD6EFD-E88A-4EED-9CCA-11C3EB5A8894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B2E42D-A40D-4FB0-99F0-BA6C98871AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B2E42D-A40D-4FB0-99F0-BA6C98871AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B2E42D-A40D-4FB0-99F0-BA6C98871AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B2E42D-A40D-4FB0-99F0-BA6C98871AAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

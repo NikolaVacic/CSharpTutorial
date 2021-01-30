@@ -32,7 +32,8 @@ namespace Breakpoints
             int total = 0;
             int test = 0;
 
-            for (int i = -1000; i < 1000; ++i) {
+            for (int i = -1000; i < 1000; ++i)
+            {
                 total += i;
                 try
                 {
@@ -47,15 +48,7 @@ namespace Breakpoints
 
             Console.WriteLine($"Total is {total}");
 
-
-
-
-
-
-
-
-
-
+            
 
         }
     }
